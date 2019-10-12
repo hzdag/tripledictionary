@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Triple Dictionary</string>
+    <string name="API_KEY">trnsl.1.1.20170425T085917Z.580fec9ed721d387.9caf5bd2514ca1581b95de321974dce826ef5064</string>
+    <string name="start_new_conversation">Sohbet İle Çeviri</string>
+    <string name="start_new_translation">Metin Çevirisi</string>
+    <string name="about">Uygulama hakkında</string>
+    <string name="about_yandex">Abdullah Arslan - Zafer Haş - Mert Dağ</string>
+    <string name="new_conversation">Konuşma</string>
+    <string name="new_translate">Çeviri</string>
+    <string name="hint_text">Metin girmek için dokunun</string>
+    <string name="no_internet_connection">İnternet Bağlantısı Yok</string>
+    <string name="speech_prompt">Şimdi konuş</string>
+    <string name="language_pack_missing">Bu dil konuşma paketinin yüklenmesi gerekiyor</string>
+    <string name="language_not_supported">Bu dil konuşması şu anda desteklenmiyor</string>
+    <string name="select_matching_text">Eşleşen Metni Seç</string>
+    <string name="process_tts">Dili değiştir</string>
+    <string name="no_text">Metin Yoke</string>
+</resources>
